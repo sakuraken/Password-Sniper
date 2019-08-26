@@ -1,2 +1,2 @@
 # Password-Sniper
-Still studying about hacking
+This can snipe Facebook password so we can use this with Termux Command. 
